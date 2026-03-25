@@ -23,7 +23,7 @@ Dự án này là một hệ thống đầy đủ bao gồm trang web mua sắm 
 | Ứng dụng | URL |
 | :--- | :--- |
 | Trang Client & Admin | http://localhost:4200 |
-| API Backend | http://localhost:3000 |
+| API Backend | http://localhost:4000 |
 
 ### 🔐 Tài khoản thử nghiệm (Admin)
 | Tên trường | Giá trị |
