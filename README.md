@@ -35,7 +35,7 @@ Dự án này là một hệ thống đầy đủ bao gồm trang web mua sắm 
 | Thư mục | Chức năng | Cổng hiển thị |
 | :--- | :--- | :--- |
 | my-app | Ứng dụng Frontend (Angular) bao gồm cả Client và giao diện Admin | 4200 |
-| my-server | Server Backend chính cung cấp API (Node.js/Express + MongoDB) | 3000 |
+| my-server | Server Backend chính cung cấp API (Node.js/Express + MongoDB) | 4000 |
 
 ---
 
